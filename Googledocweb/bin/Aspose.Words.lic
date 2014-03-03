@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<License>
+  <Data>
+    <LicensedTo>Lambodar Inc.</LicensedTo>
+    <LicenseType>Developer OEM Subscription</LicenseType>
+    <LicenseNote>Limited to 1 developer.</LicenseNote>
+    <OrderID>100301125325</OrderID>
+    <OEM>This is a redistributable license</OEM>
+    <Products>
+      <Product>Aspose.Words for .NET</Product>
+    </Products>
+    <EditionType>Enterprise</EditionType>
+    <SerialNumber>c58e705a-83e2-46b0-be67-90d6fb6b7e58</SerialNumber>
+    <SubscriptionExpiry>20110324</SubscriptionExpiry>
+    <LicenseVersion>2.2</LicenseVersion>
+  </Data>
+  <Signature>Rdi+ky9WWR43ksuZ63NNTIC1dNG0ewFM+xoyQpRwenH8AGtEek1xr9wZpCBX3YbKYqal3XTDspWyokjAJzh8H9fj0OHp/0Y377sVtOU0Knb3WQ2DNNRgrKi2zVAIJBdXMA+xIUNdMPl9NFXYxUBFO4JfO7JJ21BNZvqkrsGj2j8=</Signature>
+</License>
